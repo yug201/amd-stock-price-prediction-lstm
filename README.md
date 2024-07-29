@@ -1,7 +1,8 @@
 
-#this model will predict the trend(up/down) of futer 10th minut based on tha analysis of past 40 min
-
 # AMD Stock Price Prediction Using LSTM
+
+# Aim of this code is to predict the sing(trend--up/down) for the future 10th minut based on the analysis of past 40 minuts
+# this model will predict the trend(up/down) of futer 10th minut based on tha analysis of past 40 min
 
 ## Overview
 
